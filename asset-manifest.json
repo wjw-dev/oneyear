@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/oneyear/static/css/main.aad4314f.css",
+    "main.js": "/oneyear/static/js/main.739b2b40.js",
+    "static/js/787.3f042b7d.chunk.js": "/oneyear/static/js/787.3f042b7d.chunk.js",
+    "photos/12December.jpg": "/oneyear/photos/12December.jpg",
+    "static/media/12December.jpg": "/oneyear/static/media/12December.45b61251032b03d1b4ae.jpg",
+    "photos/11November.jpg": "/oneyear/photos/11November.jpg",
+    "static/media/11November.jpg": "/oneyear/static/media/11November.df19a2c35b022cb5e866.jpg",
+    "photos/02Febuary.jpg": "/oneyear/photos/02Febuary.jpg",
+    "static/media/02Febuary.jpg": "/oneyear/static/media/02Febuary.fab186634fc3d2b8549d.jpg",
+    "photos/06June.jpg": "/oneyear/photos/06June.jpg",
+    "static/media/06June.jpg": "/oneyear/static/media/06June.3c3627908f79d1616820.jpg",
+    "photos/01January.jpg": "/oneyear/photos/01January.jpg",
+    "static/media/01January.jpg": "/oneyear/static/media/01January.db0f489674a28d05c7f4.jpg",
+    "photos/04April.jpg": "/oneyear/photos/04April.jpg",
+    "static/media/04April.jpg": "/oneyear/static/media/04April.068c6e85ccb7751cfd75.jpg",
+    "photos/07July.jpg": "/oneyear/photos/07July.jpg",
+    "static/media/07July.jpg": "/oneyear/static/media/07July.1bf7b5fe1db5b1909467.jpg",
+    "photos/05May.jpg": "/oneyear/photos/05May.jpg",
+    "static/media/05May.jpg": "/oneyear/static/media/05May.df533bf8c22f613d9eab.jpg",
+    "photos/09September.jpg": "/oneyear/photos/09September.jpg",
+    "static/media/09September.jpg": "/oneyear/static/media/09September.a16fbf56770f8709cb5d.jpg",
+    "photos/08August.jpg": "/oneyear/photos/08August.jpg",
+    "static/media/08August.jpg": "/oneyear/static/media/08August.a8ca71aff84169fa5bfc.jpg",
+    "photos/10October.jpg": "/oneyear/photos/10October.jpg",
+    "static/media/10October.jpg": "/oneyear/static/media/10October.d48dd1c31a576b06cd79.jpg",
+    "photos/13MySyb.jpg": "/oneyear/photos/13MySyb.jpg",
+    "static/media/13MySyb.jpg": "/oneyear/static/media/13MySyb.786d9053102443c6f690.jpg",
+    "index.html": "/oneyear/index.html",
+    "main.aad4314f.css.map": "/oneyear/static/css/main.aad4314f.css.map",
+    "main.739b2b40.js.map": "/oneyear/static/js/main.739b2b40.js.map",
+    "787.3f042b7d.chunk.js.map": "/oneyear/static/js/787.3f042b7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad4314f.css",
+    "static/js/main.739b2b40.js"
+  ]
+}
