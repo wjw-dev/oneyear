@@ -1,0 +1,81 @@
+*
+{
+  transition: all 1s ease;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.FlexLayout
+{
+  max-width: 100vw;
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow: scroll;
+
+  .CurrentText
+  {
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  .Visual
+  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: end;
+  }
+}
+
+.Txt
+{
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+.Pic
+{
+  width: 100%;
+}
+
+.ButtonHolder
+{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@keyframes fade {
+  0% { -webkit-filter: blur(5px);}
+  100% { -webkit-filter: blur(0px);}
+}
+
+@keyframes stretch {
+  0% {
+      transform: scale(3);
+  }
+  50% {
+      transform: scale(4.0);
+  }
+  100% {
+    transform: scale(3);
+}
+}
+
+@keyframes miniMove {
+  0% {
+      transform: scale(3);
+  }
+  50% {
+      transform: scale(3.5);
+  }
+  100% {
+    transform: scale(3);
+}
+}
